@@ -596,6 +596,11 @@ li {
   border: 1px solid #fff;
   border-radius: 4px;
   outline: none;
+  background-color: #2e2f42;
+}
+.footer-input::placeholder {
+  color: #fff;
+  padding-left: 12px;
 }
 .subscribe-icon {
   width: 24px;
