@@ -597,6 +597,7 @@ li {
   border-radius: 4px;
   outline: none;
   background-color: #2e2f42;
+  color: #fff;
 }
 .footer-input::placeholder {
   color: #fff;
