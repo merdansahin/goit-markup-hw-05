@@ -806,6 +806,9 @@ li {
   background-color: #404bbf;
   cursor: pointer;
 }
+.modal-close-button:hover .close-button {
+  fill: #fff;
+}
 .modal-input-checkbox {
   width: 16px;
   height: 16px;
