@@ -288,6 +288,9 @@ li {
   width: 260px;
   height: 400px;
 }
+.img-card {
+  width: 260px;
+}
 
 .down-card {
   height: 168px;
